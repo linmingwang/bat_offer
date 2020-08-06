@@ -47,7 +47,11 @@
 > 9. 深入理解线程池的核心源码以及线程池核心参数配置。     
 
 > 10.具备应用程序从构建、部署、测试和发布过程的自动化DevOps能力，如：Docker、K8s、Jenkins等技术栈。
+## Spring源码专题视频学习资料视频地址: 
+> https://www.bilibili.com/video/BV1yE41187A3
 
+## JUC专题视频学习资料视频地址：
+> https://www.bilibili.com/video/av68723403
 ## 本工程演示需要用到spring，故建立一个简易版的springboot工程，启动本工程必备环境：
 >  1. jdk1.8_xx
 >  2. maven 3.6.x
