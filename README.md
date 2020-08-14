@@ -63,6 +63,9 @@
 https://apidoc.gitee.com/loolly/hutool/   
 [前后端框架脚手架](https://blog.csdn.net/zj7321/article/details/81586244)
 
+## 安装docker失败
+https://blog.csdn.net/zhangbeizhen18/article/details/85239758
+
 ## 分库分表面试题
 >http://www.imooc.com/article/301836  
 https://juejin.im/post/5e48a9af6fb9a07cc200c203
