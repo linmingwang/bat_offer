@@ -125,3 +125,4 @@ https://juejin.im/post/5e48a9af6fb9a07cc200c203
 [微服务视频教程-尚硅谷2020最新版SpringCloud框架开发教程全套完整版从入门到精通](https://www.bilibili.com/video/BV18E411x7eT)      
 [Spring源码专题视频学习资料](https://www.bilibili.com/video/BV1yE41187A3)   
 [juc专题视频学习资料](https://www.bilibili.com/video/av68723403)  
+[SpringBoot_权威教程_spring boot_springboot核心篇+springboot整合篇-_雷丰阳_尚硅谷](https://www.bilibili.com/video/BV1Et411Y7tQ?t=1077&p=60)  
